@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anna Zembol
+- 👋 Hi, I’m Anna
 - ⚡ I'm a third year student of Applied Mathematics
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning data visualization in PowerBi
